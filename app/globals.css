@@ -159,6 +159,10 @@ ul {
   width: 100%;
 }
 
+.modal img {
+  width: -webkit-fill-available;
+}
+
 .modal h2,
 .modal h1 {
   margin: 0;
